@@ -10,29 +10,3 @@ html,body{
     width: 100%;
     background-color: #EEEEEE;
 }
-
-.nav-main{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    padding-block: 1rem;
-    padding-inline: 1.5rem;
-}
-
-.nav-right>ul{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 30px;
-}
-
-ul>li{
-    list-style: none;
-}
-
-ul>li>a{
-    text-decoration: none;
-    color: black;
-}
